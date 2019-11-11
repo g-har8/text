@@ -29,5 +29,8 @@
 ```
 ![](https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-64.png)
 
-==Подсвеченный текст==
 ~~Зачеркнутый текст~~
+**жирная ячейка**
+*курсив*
+
+== Подсвеченный текст ==
